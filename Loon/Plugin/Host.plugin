@@ -25,3 +25,5 @@ github.com = server:8.8.8.8
 *.githubassets.com = server:8.8.8.8
 *.githubusercontent.com = server:8.8.8.8
 mail.profitek.com = server:8.8.8.8
+github.com = 140.82.113.4
+raw.githubusercontent.com = 199.232.96.133
