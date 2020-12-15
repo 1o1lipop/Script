@@ -1,0 +1,27 @@
+[host]
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.jd.com = server:119.29.29.29
+*.qq.com = server:119.29.29.29
+*.tencent.com = server:119.29.29.29
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.weixin.com = server:119.29.29.29
+*.163.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.126.net = server:119.29.29.29
+*.127.net = server:119.29.29.29
+*.netease.com = server:119.29.29.29
+*.mi.com = server:119.29.29.29
+*.xiaomi.com = server:119.29.29.29
+*.baidu.com = server:180.76.76.76
+*.bilibili.com = server:119.29.29.29
+*testflight.apple.com = server:8.8.8.8
+cdn.pcbeta.attachment.inimc.com = 120.52.19.113
+cdn.pcbeta.css.inimc.com = 120.52.19.113
+cdn.pcbeta.static.inimc.com = 120.52.19.113
+99zipai.com = server:8.8.8.8
+github.com = server:8.8.8.8
+*.githubassets.com = server:8.8.8.8
+*.githubusercontent.com = server:8.8.8.8
+mail.profitek.com = server:8.8.8.8
