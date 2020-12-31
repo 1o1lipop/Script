@@ -1,10 +1,9 @@
 [host]
-*testflight.apple.com = server:8.8.8.8
-cdn.pcbeta.attachment.inimc.com = 120.52.19.113
-cdn.pcbeta.css.inimc.com = 120.52.19.113
-cdn.pcbeta.static.inimc.com = 120.52.19.113
-99zipai.com = server:8.8.8.8
-github.com = server:8.8.8.8
-*.githubassets.com = server:8.8.8.8
-*.githubusercontent.com = server:8.8.8.8
-mail.profitek.com = server:8.8.8.8
+*testflight.apple.com = server:8.8.4.4
+*.githubassets.com = server:8.8.4.4
+*.githubusercontent.com = server:8.8.4.4
+99zipai.com = server:8.8.4.4
+github.com = server:8.8.4.4
+mail.profitek.com = server:8.8.4.4
+t66y.com = server:8.8.4.4
+
