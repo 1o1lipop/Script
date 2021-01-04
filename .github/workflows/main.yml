@@ -29,4 +29,4 @@ jobs:
           source_repo: "https://github.com/lxk0301/jd_scripts.git"
           source_branch: "master"
           destination_branch: "master"
-          github_token: ${{secrets.PAT}}
+          github_token: secrets.PAT
