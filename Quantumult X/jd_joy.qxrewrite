@@ -6,5 +6,5 @@ hostname = draw.jdfcloud.com,jdjoy.jd.com
 ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/addUser\?code= url script-response-body https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js
 # 宠汪汪助力获取Token
 ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId= url script-request-header https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js
-聚宝盆投狗粮辅助
+#聚宝盆投狗粮辅助
 ^https:\/\/jdjoy\.jd\.com\/pet\/getPetTreasureBox|^https:\/\/draw\.jdfcloud\.com\/\/pet\/getPetTreasureBox url script-response-body https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_petTreasureBox.js
