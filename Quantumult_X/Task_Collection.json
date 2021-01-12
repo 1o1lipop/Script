@@ -1,6 +1,6 @@
 {
   "name": "Task_Collection",
-  "description": "https://github.com/lxk0301/jd_scripts",
+  "description": "https://github.com/1o1lipop/img/master/Quantumult_X",
   "task": [
     "2 2 1,10,20 * * https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/shareCode.js, tag=互助码提交, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
     "2 2 1,10,20 * * shareCode1.js, tag=互助码1, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
