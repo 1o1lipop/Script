@@ -1,4 +1,0 @@
-hostname = ios.baertt.com
-
-#中青body获取
-https://ios.baertt.com/v5/article/complete.json url script-request-body https://raw.githubusercontent.com/songyangzz/QuantumultX/master/zqgetbody.js
