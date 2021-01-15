@@ -3,6 +3,7 @@
   "description": "https://github.com/1o1lipop/img/master/Quantumult_X",
   "task": [
     "2 2 1,10,20 * * https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/shareCode.js, tag=互助码提交, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
+    "2 2 1,10,20 * * https://gitee.com/qq34347476/quantumult-x/raw/master/get_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
     "2 2 1,10,20 * * shareCode1.js, tag=互助码1, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
     "2 2 1,10,20 * * shareCode2.js, tag=互助码2, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/shareCode.png, enabled=true",
     "0 */15 0-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
