@@ -63,7 +63,7 @@
     "44 12 * * 6 https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unbind.js, tag=注销京东店铺会员卡, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true",
     "30 8 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_crazy_joy.png, enabled=true",    
     "1 7 13 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_super_coupon.js, tag=神券京豆, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_super_coupon.png, enabled=true",
-    "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_bj.png, enabled=true",
+    "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_P&G.png, enabled=true",
     "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=盲盒抽京豆, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_mh.png, enabled=true",
     "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_gyec.png, enabled=true",
     "0 8-23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/wbtz.png, enabled=false",
