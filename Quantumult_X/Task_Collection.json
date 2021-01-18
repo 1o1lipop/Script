@@ -65,7 +65,7 @@
     "1 7 13 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_super_coupon.js, tag=神券京豆, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_super_coupon.png, enabled=true",
     "1 8,9 14-31/1 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js, tag=宝洁美发屋, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_bj.jpg, enabled=true",
     "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=盲盒抽京豆, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_mh.jpg, enabled=true",
-    "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_gyec.jpg, enabled=true",
+    "30 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js, tag=工业品爱消除, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_gyec.js.png, enabled=true",
     "0 8-23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/wbtz.png, enabled=false",
     "1 */1 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true",
     "0 9,18,23 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://ooxx.be/js/icon/maoyan.png, enabled=true",
