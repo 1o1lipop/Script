@@ -52,7 +52,7 @@
     "20 7-19/6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true",
     "13 7 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_small_home.js, tag=东东小窝, img-url=https://github.com/58xinian/icon/raw/master/ddxw.png, enabled=true",
     "10 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png, enabled=true",
-    "7 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl.js, tag=东东爱消除, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/shylocks/jd_xxl.jpg, enabled=true",
+    "7 * * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl.js, tag=东东爱消除, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_xxl.png, enabled=true",
     "15 1,7,9,12,18,21 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js, tag=宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "12 */1 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js, tag=宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "0 0,6 * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
