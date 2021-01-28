@@ -1,0 +1,3 @@
+hostname = raw.githubusercontent.com
+
+^https:\/\/raw\.githubusercontent\.com\/LXK9301\/jd_scripts\/ https://gitee.com/lxk0301/jd_scripts/raw/ 302
