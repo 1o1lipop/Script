@@ -80,7 +80,7 @@
     "30 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js, tag=小鸽有礼2, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_xg.png, enabled=true",
     "30,31 20-23/1 28 1 * http://qnn9kdmd1.hn-bkt.clouddn.com/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_live_redrain.png, enabled=true",
     "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_sgmh.png, enabled=true",
-    "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城, img-url=img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_5g.png, enabled=true",
     "0 8-23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/wbtz.png, enabled=false",
     "1 */1 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true",
     "0 9,18,23 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://ooxx.be/js/icon/maoyan.png, enabled=true",
