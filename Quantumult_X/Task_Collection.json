@@ -10,7 +10,7 @@
     "0 */15 0-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
     "0 */30 0-23 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青看点, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
     "0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/glados.png, enabled=false",
-    "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js, tag=源头好物红包, img-url=img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_coupon.png, enabled=true",
+    "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_coupon.png, enabled=true",
     "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
     "30 0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/airport.png, enabled=true",
     "1,3,5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
