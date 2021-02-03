@@ -10,7 +10,7 @@ hostname = draw.jdfcloud.com, jdjoy.jd.com, account.huami.com, weather-data.appl
 ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId= url script-request-header https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_run.js
 
 # 京喜农场
-^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.cookie.js
+^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
 
 # 小米运动
 ^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js
