@@ -12,6 +12,11 @@ hostname = draw.jdfcloud.com, jdjoy.jd.com, account.huami.com, weather-data.appl
 # 京喜农场
 ^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
 
+# 京喜财富岛
+^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
+^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
+^https\:\/\/m\.jingxi\.com\/jxcfd\/consume\/CashOut url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
+
 # 小米运动
 ^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js
 
