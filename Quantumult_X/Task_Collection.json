@@ -3,7 +3,7 @@
   "description": "https://github.com/1o1lipop/Script/master/Quantumult_X",
   "task": [
     "0 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/Quantumult_X/BoxJS/Delete_All.js,  tag=抹掉Boxjs全局备份, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/BoxJS.png, enabled=false",
-    "0 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,  tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=false",
+    "0 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/Quantumult_X/BoxJS/Delete_Cache.js,  tag=抹掉Boxjs订阅缓存, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/BoxJS.png, enabled=false",
     "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,  tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=true",
     "0 */15 8-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
     "0 */30 8-21 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青看点, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
