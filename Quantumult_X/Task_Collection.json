@@ -6,7 +6,7 @@
     "2 2 1,10,20 * * https://gitee.com/qq34347476/quantumult-x/raw/master/get_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/shareCode.png, enabled=true",
     "2 2 1,10,20 * * shareCode1.js, tag=互助码1, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/shareCode.png, enabled=true",
     "2 2 1,10,20 * * shareCode2.js, tag=互助码2, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/shareCode.png, enabled=true",
-    "*/15 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,  tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=true",
+    "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,  tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=true",
     "0 */15 8-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
     "0 */30 8-21 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青看点, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
     "0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/glados.png, enabled=false",
