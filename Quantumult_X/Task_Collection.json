@@ -60,7 +60,6 @@
     "10 0,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_necklace.png, enabled=true",    
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_syj.js, tag=十元街, img-url=https://github.com/58xinian/icon/raw/master/jd_syj.png, enabled=true",
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",       
-    "55 23 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js, tag=注销京东店铺会员卡, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true",
     "10 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_crazy_joy.png, enabled=true",    
     "10 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true",
     "5 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_xg.png, enabled=true",
