@@ -23,7 +23,6 @@
     "0 12 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_wuliu.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "30 6,12,22 * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js, tag=京喜财富岛兑换提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
-    "30,31 20-23/1 28 1 * http://qnn9kdmd1.hn-bkt.clouddn.com/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_live_redrain.png, enabled=true",
     "10 20 2 2 * https://storage.googleapis.com/jd_live/jd_super.js, tag=超级直播间任务赢京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 8-23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/wbtz.png, enabled=false",
     "1 */1 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true",
