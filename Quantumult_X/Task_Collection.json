@@ -16,7 +16,7 @@
     "7 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/videoqq.png, enabled=true",
     "9 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/weibo.png, enabled=true",
     "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png, enabled=true",
-    "11 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png, enabled=true",
+    "11 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jddj.png, enabled=true",
     "12 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag=京东特权值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_rankingList.png, enabled=true",
     "0 12 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_wuliu.png, enabled=true",
