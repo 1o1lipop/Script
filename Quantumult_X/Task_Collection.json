@@ -34,6 +34,6 @@
     "10 0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js, tag=汇率监控, img-url=https://raw.githubusercontent.com/Orz-3/task/master/exchangerate.png, enabled=true",
     "5 0 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/daysmatter.js, tag=倒数日, img-url= https://raw.githubusercontent.com/1o1lipop/img/master/daysmatter.png, enabled=true",
     "31 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野, img-url=https://raw.githubusercontent.com/Orz-3/task/master/idaily.png, enabled=true",
-    "1 23 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/task/master/historyToday.png, enabled=true",
+    "1 23 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/HistoryToday.png, enabled=true",
   ]
 }
