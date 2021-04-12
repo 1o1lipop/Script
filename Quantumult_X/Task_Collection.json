@@ -4,9 +4,9 @@
   "task": [
     "0 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/Quantumult_X/BoxJS/Delete_All.js, tag=抹掉Boxjs全局备份, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/BoxJS.png, enabled=false",
     "0 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/Quantumult_X/BoxJS/Delete_Cache.js, tag=抹掉Boxjs订阅缓存, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/BoxJS.png, enabled=false",
-    "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js,  tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=true",
-    "0 */15 8-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
-    "0 */30 8-21 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青看点, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
+    "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/xp.png, enabled=true",
+    "0 */15 8-21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/youth.png, enabled=true",
+    "0 */30 8-21 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/YOUTH_READ.js, tag=中青看点, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/youth.png, enabled=true",
     "0 0 * * * https://qxzy.top/rules/QuantumultX/js/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=false",
     "0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/glados.png, enabled=false",
     "30 0 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/airport.png, enabled=true",
@@ -23,7 +23,7 @@
     "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
     "0 12 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/1o1lipop/Script/master/jd_wuliu.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_price.png, enabled=true",
-    "30 6,12,22 * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js, tag=京喜财富岛兑换提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true"
+    "30 6,12,22 * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js, tag=京喜财富岛兑换提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
     "0 8-23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/weibo.png, enabled=false",
     "1 */1 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/caiyun.png, enabled=true",
     "0 9,18,23 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://ooxx.be/js/icon/maoyan.png, enabled=true",
