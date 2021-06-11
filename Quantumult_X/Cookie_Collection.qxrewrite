@@ -11,7 +11,7 @@ https:\/\/me-api\.jd\.com\/user_new\/info\/GetJDUserInfoUnion url script-request
 ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId= url script-request-header https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_joy_run.js
 
 # xmSports
-^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js
+^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/xmSports.js
 
 # 京喜财富岛
 ^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
