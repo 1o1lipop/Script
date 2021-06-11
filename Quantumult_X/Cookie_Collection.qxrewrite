@@ -1,4 +1,17 @@
-hostname = wq.jd.com, m.jingxi.com
+hostname = wq.jd.com, m.jingxi.com, draw.jdfcloud.com, jdjoy.jd.com, account.huami.com, me-api.jd.com
+
+# JD_extra_cookie
+https:\/\/me-api\.jd\.com\/user_new\/info\/GetJDUserInfoUnion url script-request-header https://jdsharedresourcescdn.azureedge.net/jdresource/JD_extra_cookie.js
+
+# jd_joy_help
+^https:\/\/draw\.jdfcloud\.com\/\/common\/pet\/enterRoom\/h5\?invitePin=.*(&inviteSource=task_invite&shareSource=\w+&inviteTimeStamp=\d+&openId=\w+)?&reqSource=weapp|^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/helpFriend\?friendPin url script-request-header https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_help.js
+
+# jd_joy_run
+^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/addUser\?code= url script-response-body https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_run.js
+^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId= url script-request-header https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_run.js
+
+# xmSports
+^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js
 
 # 京喜财富岛
 ^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
