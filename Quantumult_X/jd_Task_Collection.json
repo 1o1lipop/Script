@@ -60,7 +60,7 @@
     "11 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png",
     "10 0,7,23 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
     "55 23 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
-    "0 0 0 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_xtg.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_xtg.png,
+    "0 0 0 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_xtg.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_xtg.png",
     "0 0 0 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_xtg_help.js, tag=家电星推官好友互助, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_xtg.png",
     "33 0,6-23/2 * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_zoo.js, tag=618动物联萌, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_zoo.png",
     "0-59/30 * * * * https://raw.githubusercontent.com/1o1lipop/Script/master/jdresource/jd_zooCollect.js, tag=618动物联萌收集金币, img-url=https://raw.githubusercontent.com/1o1lipop/img/master/jd_zoo.png",
