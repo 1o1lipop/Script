@@ -1,9 +1,0 @@
-#!name=BiliHD
-#!desc=bilibili fan drama open 1080P+
-
-[Script]
-# Sunert
-http-response https:\/\/ap(p|i)\.bilibili\.com\/((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Script/BiliHD.js, tag=Bilipj
-
-[MITM]
-hostname = api.bilibili.com
