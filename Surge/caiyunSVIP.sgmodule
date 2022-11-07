@@ -4,6 +4,5 @@
 [Script]
 hyperweb会员解锁 = type=http-response,pattern=^https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user),requires-body=1,max-size=0,script-path=https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Crack/caiyun.js,script-update-interval=0
 
-
 [MITM]
 hostname = %APPEND% biz.caiyunapp.com
