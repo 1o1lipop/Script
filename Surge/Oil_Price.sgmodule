@@ -1,0 +1,7 @@
+#!name=实时油价
+#!desc=油价
+
+[Panel]
+Oil_Price = script-name=Oil_Price,update-interval=43200
+[Script]
+Oil_Price = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/Keywos/rule/main/JS/yj.js, argument=hubei/wuhan
